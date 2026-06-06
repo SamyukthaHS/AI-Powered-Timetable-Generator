@@ -44,6 +44,3 @@ AI-Powered Timetable Generator is a web-based application that automatically gen
 pip install -r requirements.txt
 ```
 
-## Contributors
-
-* Samyuktha HS
